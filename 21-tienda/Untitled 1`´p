@@ -1,0 +1,12 @@
+TIENDA
+------
+
+Vendedores, Clientes y Clientes Oro
+
+El vendedor tiene acumuladoVentas y el cliente tiene saldo.
+
+El cliente puede comprar productos.
+Si es cliente Oro se le aplica un 15% de descuento.
+La compra siempre va asociada a un vendedor.
+
+c1. comprar ("pan", 1, 4,);
